@@ -6,9 +6,13 @@ This project is meant to find a group matching algorithm that assigns a class of
 ```
 git clone https://github.com/lih666/CSE202-Grouping-Project
 ```
-
-
-
-
 ## Authors
 Lihao He, Zhiyue Yang, Linqi Pan, Shiyi Wang
+
+
+## File Description
+
+* `course4Group.json` Raw Data
+* `course4Pref.json` Student Preference List
+* `course4PrefFilteredd.json` Filtered Input Data
+* `filter.js` 
