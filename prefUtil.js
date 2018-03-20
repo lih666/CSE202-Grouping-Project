@@ -174,7 +174,7 @@ module.exports = function Util(){
             possibleGroup.forEach(function (t2) {
                 graph.removeNode(t2);
                 if(stable.includes(t2)){
-                    console.log('You fucked up');
+                    console.log('You screwed up');
                 }
                 stable.push(t2);
             });
@@ -254,38 +254,3 @@ module.exports = function Util(){
    return util;
 
 }
-
-function stableGroup(graph, t) {
-    var targetList = rev_graph.adjacent(t);
-    targetList[9] = t;
-    var stargetList = rev_graph.adjacent(t);
-    console.log(stargetList.length);
-
-}
-
-
-//export addStudent;
-
-
-//console.log(rev_graph.topologicalSort());
-//console.log(rev_graph.adjacent('4'));
-
-
-//graph.addNode();
-
-//console.log(groupObj[10]);
-
-//var roasterList = groupObj['data']['Course']['Enrollments'];
-
-// var result = roasterList.filter(member => (member['role'] != 'Instructor'));
-// result = JSON.stringify(result);
-// fs.writeFileSync('./course4PrefFiltered.json', result);
-
-//console.log(groupObj);
-//console.log(roasterList[0]);
-
-//console.log(groupObj);
-//console.log(groupObj.data.Course);
-//var group = new Map();
-
-
