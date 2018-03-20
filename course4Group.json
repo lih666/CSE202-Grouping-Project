@@ -1,0 +1,2187 @@
+{
+  "data": {
+    "Course": {
+      "Groups": [
+        {
+          "id": "84",
+          "nickname": "ESL",
+          "Users": [
+            {
+              "id": "263",
+              "firstName": "Yuqian",
+              "lastName": "Cheng"
+            },
+            {
+              "id": "360",
+              "firstName": "Ryan Howard",
+              "lastName": "Keng"
+            },
+            {
+              "id": "404",
+              "firstName": "Xiqiang",
+              "lastName": "Lin"
+            },
+            {
+              "id": "416",
+              "firstName": "Jialin",
+              "lastName": "Lou"
+            },
+            {
+              "id": "462",
+              "firstName": "Vanna Lan",
+              "lastName": "Phong"
+            },
+            {
+              "id": "502",
+              "firstName": "Aravind Uppili",
+              "lastName": "Sridhar"
+            },
+            {
+              "id": "556",
+              "firstName": "Haomin",
+              "lastName": "Wang"
+            },
+            {
+              "id": "573",
+              "firstName": "Ying",
+              "lastName": "Wu"
+            },
+            {
+              "id": "603",
+              "firstName": "Sheng",
+              "lastName": "Zhang"
+            },
+            {
+              "id": "611",
+              "firstName": "Xinrui",
+              "lastName": "Zhou"
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "nickname": "TOSS",
+          "Users": [
+            {
+              "id": "279",
+              "firstName": "Jeffrey Joseph",
+              "lastName": "Davis"
+            },
+            {
+              "id": "280",
+              "firstName": "Timothy",
+              "lastName": "Deng"
+            },
+            {
+              "id": "366",
+              "firstName": "Tai Ho",
+              "lastName": "Kim"
+            },
+            {
+              "id": "418",
+              "firstName": "Paul",
+              "lastName": "Luna"
+            },
+            {
+              "id": "425",
+              "firstName": "Timothy Eden",
+              "lastName": "McTigue"
+            },
+            {
+              "id": "506",
+              "firstName": "Ladislav",
+              "lastName": "Steffko"
+            },
+            {
+              "id": "568",
+              "firstName": "William Charles",
+              "lastName": "White"
+            },
+            {
+              "id": "590",
+              "firstName": "Jihoon",
+              "lastName": "You"
+            },
+            {
+              "id": "593",
+              "firstName": "Shirley Ellen",
+              "lastName": "Yu"
+            },
+            {
+              "id": "600",
+              "firstName": "Wenming",
+              "lastName": "Zhai"
+            },
+            {
+              "id": "613",
+              "firstName": "Vincent Lavarias",
+              "lastName": "Salinas"
+            }
+          ]
+        },
+        {
+          "id": "210",
+          "nickname": "SENDNUDES",
+          "Users": [
+            {
+              "id": "228",
+              "firstName": "Timothy Liu",
+              "lastName": "Bian"
+            },
+            {
+              "id": "250",
+              "firstName": "Justin Seng",
+              "lastName": "Chen"
+            },
+            {
+              "id": "349",
+              "firstName": "Zachery Joseph",
+              "lastName": "Johnson"
+            },
+            {
+              "id": "383",
+              "firstName": "Jeffrey Zhong",
+              "lastName": "Lee"
+            },
+            {
+              "id": "450",
+              "firstName": "Zi Long",
+              "lastName": "Pan"
+            },
+            {
+              "id": "488",
+              "firstName": "Bhumi",
+              "lastName": "Sethabutr"
+            },
+            {
+              "id": "492",
+              "firstName": "Anthony",
+              "lastName": "Shih"
+            },
+            {
+              "id": "537",
+              "firstName": "Truman Wan-Ren",
+              "lastName": "Tse"
+            },
+            {
+              "id": "594",
+              "firstName": "Raymond L",
+              "lastName": "Yu"
+            },
+            {
+              "id": "670",
+              "firstName": " Stephen Alan",
+              "lastName": "Carrington"
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "nickname": "EXCITED",
+          "Users": [
+            {
+              "id": "310",
+              "firstName": "Lingfeng",
+              "lastName": "Guo"
+            },
+            {
+              "id": "319",
+              "firstName": "Lihao",
+              "lastName": "He"
+            },
+            {
+              "id": "321",
+              "firstName": "Yunchu",
+              "lastName": "He"
+            },
+            {
+              "id": "398",
+              "firstName": "Yifan",
+              "lastName": "Li"
+            },
+            {
+              "id": "405",
+              "firstName": "Chen",
+              "lastName": "Liu"
+            },
+            {
+              "id": "490",
+              "firstName": "Likai",
+              "lastName": "Sheng"
+            },
+            {
+              "id": "526",
+              "firstName": "Shangyuan",
+              "lastName": "Tong"
+            },
+            {
+              "id": "567",
+              "firstName": "Yechen",
+              "lastName": "Wei"
+            },
+            {
+              "id": "602",
+              "firstName": "Hanqing",
+              "lastName": "Zhang"
+            },
+            {
+              "id": "606",
+              "firstName": "Yutong",
+              "lastName": "Zhang"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "nickname": "ER",
+          "Users": [
+            {
+              "id": "216",
+              "firstName": "Karanbir Singh",
+              "lastName": "Bains"
+            },
+            {
+              "id": "270",
+              "firstName": "Minooc",
+              "lastName": "Choo"
+            },
+            {
+              "id": "272",
+              "firstName": "Erin Dorothy",
+              "lastName": "Cole"
+            },
+            {
+              "id": "293",
+              "firstName": "Jonathan Scott",
+              "lastName": "Futral"
+            },
+            {
+              "id": "442",
+              "firstName": "Yosua Rahamim Witantra",
+              "lastName": "Oey"
+            },
+            {
+              "id": "451",
+              "firstName": "Kevin Ramadhany",
+              "lastName": "Pansawira"
+            },
+            {
+              "id": "482",
+              "firstName": "Nikhilesh",
+              "lastName": "Sankaranarayanan"
+            },
+            {
+              "id": "498",
+              "firstName": "Ajay Shanker",
+              "lastName": "Singh"
+            },
+            {
+              "id": "547",
+              "firstName": "Daniel Allen",
+              "lastName": "Vick"
+            },
+            {
+              "id": "654",
+              "firstName": "Colin Jack",
+              "lastName": "Van Winkle"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "nickname": "BBC",
+          "Users": [
+            {
+              "id": "240",
+              "firstName": "David Joon",
+              "lastName": "Chang"
+            },
+            {
+              "id": "317",
+              "firstName": "Christopher Robert",
+              "lastName": "Harris"
+            },
+            {
+              "id": "430",
+              "firstName": "John Joseph",
+              "lastName": "Murcko"
+            },
+            {
+              "id": "453",
+              "firstName": "Tarun V",
+              "lastName": "Pasumarthi"
+            },
+            {
+              "id": "484",
+              "firstName": "Frederick Harley",
+              "lastName": "Saxton"
+            },
+            {
+              "id": "493",
+              "firstName": "Ryan Jiwhan",
+              "lastName": "Shim"
+            },
+            {
+              "id": "512",
+              "firstName": "Gokul",
+              "lastName": "Suresh"
+            },
+            {
+              "id": "588",
+              "firstName": "Andrew B",
+              "lastName": "Yoo"
+            },
+            {
+              "id": "595",
+              "firstName": "William",
+              "lastName": "Yu"
+            },
+            {
+              "id": "663",
+              "firstName": " Julia Molian",
+              "lastName": "Li"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "nickname": "TMD",
+          "Users": [
+            {
+              "id": "251",
+              "firstName": "Kuan-Wei",
+              "lastName": "Chen"
+            },
+            {
+              "id": "297",
+              "firstName": "Alexander Sebastian",
+              "lastName": "Garcia"
+            },
+            {
+              "id": "345",
+              "firstName": "Maxim Boyang",
+              "lastName": "Jiao"
+            },
+            {
+              "id": "356",
+              "firstName": "Harshul",
+              "lastName": "Kapoor"
+            },
+            {
+              "id": "359",
+              "firstName": "Daniel A",
+              "lastName": "Keirouz"
+            },
+            {
+              "id": "382",
+              "firstName": "Joanne",
+              "lastName": "Lee"
+            },
+            {
+              "id": "409",
+              "firstName": "Solomon Ming-Tao",
+              "lastName": "Liu"
+            },
+            {
+              "id": "486",
+              "firstName": "Eric",
+              "lastName": "Sen"
+            },
+            {
+              "id": "515",
+              "firstName": "Lily Margaret",
+              "lastName": "Tang"
+            },
+            {
+              "id": "647",
+              "firstName": "Wei Jen",
+              "lastName": "Huang"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "nickname": "SHOTS",
+          "Users": [
+            {
+              "id": "222",
+              "firstName": "Sadis",
+              "lastName": "Banpavichit"
+            },
+            {
+              "id": "268",
+              "firstName": "Keith Lovely",
+              "lastName": "Choison"
+            },
+            {
+              "id": "273",
+              "firstName": "Robert Edward Lawrence",
+              "lastName": "Correa"
+            },
+            {
+              "id": "323",
+              "firstName": "Thomas Jason",
+              "lastName": "Hildebrand"
+            },
+            {
+              "id": "460",
+              "firstName": "Justin",
+              "lastName": "Phan"
+            },
+            {
+              "id": "483",
+              "firstName": "Ankush Singh",
+              "lastName": "Sarow"
+            },
+            {
+              "id": "491",
+              "firstName": "Isaac Stephen",
+              "lastName": "Shepard"
+            },
+            {
+              "id": "494",
+              "firstName": "Michael I",
+              "lastName": "Shipps"
+            },
+            {
+              "id": "657",
+              "firstName": "Nickolai",
+              "lastName": "Verchok"
+            },
+            {
+              "id": "668",
+              "firstName": " David Charles",
+              "lastName": "Lenz"
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "nickname": "ABG",
+          "Users": [
+            {
+              "id": "239",
+              "firstName": "Brian",
+              "lastName": "Chan"
+            },
+            {
+              "id": "246",
+              "firstName": "Parikshit",
+              "lastName": "Chauhan"
+            },
+            {
+              "id": "281",
+              "firstName": "Rishi",
+              "lastName": "Dhanaraj"
+            },
+            {
+              "id": "298",
+              "firstName": "Allen",
+              "lastName": "Gao"
+            },
+            {
+              "id": "338",
+              "firstName": "Ryan Yeh",
+              "lastName": "Huang"
+            },
+            {
+              "id": "353",
+              "firstName": "Susmitha Rani",
+              "lastName": "Kalidindi"
+            },
+            {
+              "id": "508",
+              "firstName": "Sierra Lauren",
+              "lastName": "Stump"
+            },
+            {
+              "id": "529",
+              "firstName": "Brandon Vinh",
+              "lastName": "Tran"
+            },
+            {
+              "id": "560",
+              "firstName": "Les Nai-Lung",
+              "lastName": "Wang"
+            },
+            {
+              "id": "655",
+              "firstName": "Kevin",
+              "lastName": "Mach"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "nickname": "GOAT",
+          "Users": [
+            {
+              "id": "232",
+              "firstName": "Nikhil Debdatta",
+              "lastName": "Bose"
+            },
+            {
+              "id": "288",
+              "firstName": "Joyce",
+              "lastName": "Fang"
+            },
+            {
+              "id": "313",
+              "firstName": "Brian Manh Hien",
+              "lastName": "Han"
+            },
+            {
+              "id": "343",
+              "firstName": "James Song",
+              "lastName": "Jiang"
+            },
+            {
+              "id": "368",
+              "firstName": "Avinash",
+              "lastName": "Kondareddy"
+            },
+            {
+              "id": "372",
+              "firstName": "George Chia-Chih",
+              "lastName": "Ku"
+            },
+            {
+              "id": "376",
+              "firstName": "Veena",
+              "lastName": "Kumar"
+            },
+            {
+              "id": "378",
+              "firstName": "Joshua Yiu",
+              "lastName": "Kwa"
+            },
+            {
+              "id": "390",
+              "firstName": "Taylor Nicole",
+              "lastName": "Lew"
+            },
+            {
+              "id": "527",
+              "firstName": "Stefanie Diem Anh",
+              "lastName": "Tonnu"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "nickname": "OHIO",
+          "Users": [
+            {
+              "id": "242",
+              "firstName": "Megan Bella",
+              "lastName": "Chang"
+            },
+            {
+              "id": "284",
+              "firstName": "Cody Nhat",
+              "lastName": "Doan"
+            },
+            {
+              "id": "301",
+              "firstName": "Tejas Ravi",
+              "lastName": "Gopal"
+            },
+            {
+              "id": "322",
+              "firstName": "Matthew",
+              "lastName": "Ho"
+            },
+            {
+              "id": "371",
+              "firstName": "Naga Sai Anup",
+              "lastName": "Krishnamraju"
+            },
+            {
+              "id": "393",
+              "firstName": "Kevin Jiaming",
+              "lastName": "Li"
+            },
+            {
+              "id": "431",
+              "firstName": "Prithvi",
+              "lastName": "Narasimhan"
+            },
+            {
+              "id": "432",
+              "firstName": "Brian Shean-Leng",
+              "lastName": "Ng"
+            },
+            {
+              "id": "523",
+              "firstName": "Alan Mathew",
+              "lastName": "Thomas"
+            },
+            {
+              "id": "554",
+              "firstName": "Allen",
+              "lastName": "Wan"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "nickname": "WTF",
+          "Users": [
+            {
+              "id": "265",
+              "firstName": "Alexander Beed Jon",
+              "lastName": "Chew"
+            },
+            {
+              "id": "283",
+              "firstName": "Liming",
+              "lastName": "Ding"
+            },
+            {
+              "id": "331",
+              "firstName": "Daniel",
+              "lastName": "Huang"
+            },
+            {
+              "id": "348",
+              "firstName": "Ziang",
+              "lastName": "Jing"
+            },
+            {
+              "id": "377",
+              "firstName": "Kristie",
+              "lastName": "Kwak"
+            },
+            {
+              "id": "395",
+              "firstName": "Peiran",
+              "lastName": "Li"
+            },
+            {
+              "id": "444",
+              "firstName": "Aitor",
+              "lastName": "Olloqui Del Olmo"
+            },
+            {
+              "id": "452",
+              "firstName": "Niral Dipam",
+              "lastName": "Patel"
+            },
+            {
+              "id": "474",
+              "firstName": "Marko",
+              "lastName": "Ritachka"
+            },
+            {
+              "id": "583",
+              "firstName": "Xingyu",
+              "lastName": "Yang"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "nickname": "WOOF",
+          "Users": [
+            {
+              "id": "258",
+              "firstName": "Zhiran",
+              "lastName": "Chen"
+            },
+            {
+              "id": "318",
+              "firstName": "Meiyi",
+              "lastName": "He"
+            },
+            {
+              "id": "332",
+              "firstName": "Renxu",
+              "lastName": "Hu"
+            },
+            {
+              "id": "394",
+              "firstName": "Lusha",
+              "lastName": "Li"
+            },
+            {
+              "id": "396",
+              "firstName": "Siya",
+              "lastName": "Li"
+            },
+            {
+              "id": "429",
+              "firstName": "Kim-Jasper Bonus",
+              "lastName": "Mui"
+            },
+            {
+              "id": "575",
+              "firstName": "Jianhan",
+              "lastName": "Xu"
+            },
+            {
+              "id": "584",
+              "firstName": "Xinyi",
+              "lastName": "Yang"
+            },
+            {
+              "id": "605",
+              "firstName": "Shifan",
+              "lastName": "Zhang"
+            },
+            {
+              "id": "608",
+              "firstName": "Ye",
+              "lastName": "Zhao"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "nickname": "OK",
+          "Users": [
+            {
+              "id": "214",
+              "firstName": "Amal",
+              "lastName": "Alhaidari"
+            },
+            {
+              "id": "247",
+              "firstName": "Bonnie",
+              "lastName": "Chen"
+            },
+            {
+              "id": "282",
+              "firstName": "David",
+              "lastName": "Dinata"
+            },
+            {
+              "id": "314",
+              "firstName": "Brian Minh",
+              "lastName": "Hang"
+            },
+            {
+              "id": "324",
+              "firstName": "Seonghyun",
+              "lastName": "Hong"
+            },
+            {
+              "id": "352",
+              "firstName": "San",
+              "lastName": "Kang"
+            },
+            {
+              "id": "363",
+              "firstName": "Doyoung",
+              "lastName": "Kim"
+            },
+            {
+              "id": "543",
+              "firstName": "Rishikesh Hirendu",
+              "lastName": "Vaishnav"
+            },
+            {
+              "id": "565",
+              "firstName": "Natchuta",
+              "lastName": "Wattanapenpaiboon"
+            },
+            {
+              "id": "662",
+              "firstName": " Yiming",
+              "lastName": "Chen"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "nickname": "YS",
+          "Users": [
+            {
+              "id": "252",
+              "firstName": "Pengyu",
+              "lastName": "Chen"
+            },
+            {
+              "id": "292",
+              "firstName": "Zijin",
+              "lastName": "Fu"
+            },
+            {
+              "id": "329",
+              "firstName": "Dingcheng",
+              "lastName": "Hu"
+            },
+            {
+              "id": "344",
+              "firstName": "Chenxu",
+              "lastName": "Jiang"
+            },
+            {
+              "id": "402",
+              "firstName": "Ruitian",
+              "lastName": "Lin"
+            },
+            {
+              "id": "439",
+              "firstName": "Shuyi",
+              "lastName": "Ni"
+            },
+            {
+              "id": "465",
+              "firstName": "Wanhui",
+              "lastName": "Qiao"
+            },
+            {
+              "id": "562",
+              "firstName": "Tianyi",
+              "lastName": "Wang"
+            },
+            {
+              "id": "571",
+              "firstName": "Jiaqi",
+              "lastName": "Wu"
+            },
+            {
+              "id": "604",
+              "firstName": "Yuandong",
+              "lastName": "Zhang"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "nickname": "LIT",
+          "Users": [
+            {
+              "id": "379",
+              "firstName": "Kevin",
+              "lastName": "Lai"
+            },
+            {
+              "id": "456",
+              "firstName": "Christopher Steven",
+              "lastName": "Pence"
+            },
+            {
+              "id": "468",
+              "firstName": "Sandeep",
+              "lastName": "Raghunandhan"
+            },
+            {
+              "id": "472",
+              "firstName": "Yash Ravi",
+              "lastName": "Ranjan"
+            },
+            {
+              "id": "478",
+              "firstName": "Rahul Sudheer",
+              "lastName": "Sabnis"
+            },
+            {
+              "id": "496",
+              "firstName": "Achint",
+              "lastName": "Singh"
+            },
+            {
+              "id": "499",
+              "firstName": "Vansh C",
+              "lastName": "Singh"
+            },
+            {
+              "id": "531",
+              "firstName": "Jocelyn",
+              "lastName": "Tran"
+            },
+            {
+              "id": "582",
+              "firstName": "Michelle Liang",
+              "lastName": "Yang"
+            }
+          ]
+        },
+        {
+          "id": "132",
+          "nickname": "THC",
+          "Users": [
+            {
+              "id": "237",
+              "firstName": "Sean H",
+              "lastName": "Cai"
+            },
+            {
+              "id": "309",
+              "firstName": "Eric Michael",
+              "lastName": "Gunn"
+            },
+            {
+              "id": "380",
+              "firstName": "Donald W",
+              "lastName": "Kwan"
+            },
+            {
+              "id": "384",
+              "firstName": "Preston Colin",
+              "lastName": "Lee"
+            },
+            {
+              "id": "449",
+              "firstName": "Emmett Chris",
+              "lastName": "Pan"
+            },
+            {
+              "id": "518",
+              "firstName": "Bryon Dean",
+              "lastName": "Taylor"
+            },
+            {
+              "id": "669",
+              "firstName": " Yu Chieh",
+              "lastName": "Wu"
+            },
+            {
+              "id": "671",
+              "firstName": " Yu-Ching",
+              "lastName": "Hu"
+            },
+            {
+              "id": "672",
+              "firstName": "Che-Lin",
+              "lastName": "Huang"
+            },
+            {
+              "id": "675",
+              "firstName": " Chenhsun",
+              "lastName": "Lee"
+            }
+          ]
+        },
+        {
+          "id": "124",
+          "nickname": "SUCSD",
+          "Users": [
+            {
+              "id": "4",
+              "firstName": "Bradley Jason",
+              "lastName": "Anderson"
+            },
+            {
+              "id": "253",
+              "firstName": "Scott Yenhsun",
+              "lastName": "Chen"
+            },
+            {
+              "id": "254",
+              "firstName": "Tommy",
+              "lastName": "Chen"
+            },
+            {
+              "id": "255",
+              "firstName": "Wenyi",
+              "lastName": "Chen"
+            },
+            {
+              "id": "389",
+              "firstName": "Yi-Chun",
+              "lastName": "Lee"
+            },
+            {
+              "id": "516",
+              "firstName": "Chenzhong",
+              "lastName": "Tao"
+            },
+            {
+              "id": "553",
+              "firstName": "Annie Pui Man",
+              "lastName": "Wai"
+            },
+            {
+              "id": "580",
+              "firstName": "Jiaxin",
+              "lastName": "Yang"
+            },
+            {
+              "id": "587",
+              "firstName": "Zifan",
+              "lastName": "Yang"
+            },
+            {
+              "id": "665",
+              "firstName": " Jimmy",
+              "lastName": "Tani"
+            },
+            {
+              "id": "677",
+              "firstName": "Quinn",
+              "lastName": "Wong"
+            }
+          ]
+        },
+        {
+          "id": "118",
+          "nickname": "DANK",
+          "Users": [
+            {
+              "id": "342",
+              "firstName": "Andy Jihwan",
+              "lastName": "Hwang"
+            },
+            {
+              "id": "374",
+              "firstName": "Saurabh",
+              "lastName": "Kulkarni"
+            },
+            {
+              "id": "495",
+              "firstName": "Zaki Shakir",
+              "lastName": "Siddiqui"
+            },
+            {
+              "id": "501",
+              "firstName": "Anish",
+              "lastName": "Sinha"
+            },
+            {
+              "id": "524",
+              "firstName": "Luke Trevor",
+              "lastName": "Thomas"
+            },
+            {
+              "id": "551",
+              "firstName": "Kent Thai",
+              "lastName": "Vuong"
+            },
+            {
+              "id": "557",
+              "firstName": "Isaac C",
+              "lastName": "Wang"
+            },
+            {
+              "id": "591",
+              "firstName": "Michael A",
+              "lastName": "Youssef"
+            },
+            {
+              "id": "599",
+              "firstName": "Gates J",
+              "lastName": "Zeng"
+            },
+            {
+              "id": "601",
+              "firstName": "Eric",
+              "lastName": "Zhang"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "nickname": "ZICO",
+          "Users": [
+            {
+              "id": "235",
+              "firstName": "Justin Rui",
+              "lastName": "Cai"
+            },
+            {
+              "id": "259",
+              "firstName": "Christian",
+              "lastName": "Cheng"
+            },
+            {
+              "id": "311",
+              "firstName": "Bhavna",
+              "lastName": "Gupta"
+            },
+            {
+              "id": "335",
+              "firstName": "Kevin Huasong",
+              "lastName": "Huang"
+            },
+            {
+              "id": "388",
+              "firstName": "Ledaniel Yaoming",
+              "lastName": "Leung"
+            },
+            {
+              "id": "401",
+              "firstName": "David Xiangzhe",
+              "lastName": "Lin"
+            },
+            {
+              "id": "566",
+              "firstName": "Caris William",
+              "lastName": "Wei"
+            },
+            {
+              "id": "581",
+              "firstName": "Kevan Wu",
+              "lastName": "Yang"
+            },
+            {
+              "id": "589",
+              "firstName": "Elliot Kim",
+              "lastName": "Yoon"
+            },
+            {
+              "id": "596",
+              "firstName": "Ryan Man",
+              "lastName": "Yung"
+            }
+          ]
+        },
+        {
+          "id": "194",
+          "nickname": "SWOON",
+          "Users": [
+            {
+              "id": "277",
+              "firstName": "Leon Levon",
+              "lastName": "Darian"
+            },
+            {
+              "id": "286",
+              "firstName": "Kevin Douglas",
+              "lastName": "Edington"
+            },
+            {
+              "id": "347",
+              "firstName": "Phillip",
+              "lastName": "Jo"
+            },
+            {
+              "id": "357",
+              "firstName": "Chaz Michael",
+              "lastName": "Keck"
+            },
+            {
+              "id": "364",
+              "firstName": "Edward J",
+              "lastName": "Kim"
+            },
+            {
+              "id": "403",
+              "firstName": "Tami Bing Yin",
+              "lastName": "Lin"
+            },
+            {
+              "id": "504",
+              "firstName": "Joonhan",
+              "lastName": "Song"
+            },
+            {
+              "id": "586",
+              "firstName": "Jeffrey",
+              "lastName": "Yen"
+            },
+            {
+              "id": "651",
+              "firstName": "Dianru",
+              "lastName": "Liu"
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "nickname": "BB",
+          "Users": [
+            {
+              "id": "326",
+              "firstName": "Shu-Wei",
+              "lastName": "Hsu"
+            },
+            {
+              "id": "351",
+              "firstName": "Hiroto",
+              "lastName": "Kakitani"
+            },
+            {
+              "id": "411",
+              "firstName": "Zehua",
+              "lastName": "Liu"
+            },
+            {
+              "id": "420",
+              "firstName": "Ronald Levi",
+              "lastName": "Lusk"
+            },
+            {
+              "id": "426",
+              "firstName": "Alexander Michael",
+              "lastName": "Medwid"
+            },
+            {
+              "id": "438",
+              "firstName": "Kien Truong",
+              "lastName": "Nguyen"
+            },
+            {
+              "id": "480",
+              "firstName": "Amangeet K",
+              "lastName": "Samra"
+            },
+            {
+              "id": "481",
+              "firstName": "Richard Lee",
+              "lastName": "San Miguel"
+            },
+            {
+              "id": "578",
+              "firstName": "Zahir Malik",
+              "lastName": "Yahya"
+            },
+            {
+              "id": "612",
+              "firstName": "Shaheryar",
+              "lastName": "Ajmal"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "nickname": "FFS",
+          "Users": [
+            {
+              "id": "267",
+              "firstName": "Jack",
+              "lastName": "Cho"
+            },
+            {
+              "id": "304",
+              "firstName": "Sahib Singh",
+              "lastName": "Grover"
+            },
+            {
+              "id": "336",
+              "firstName": "Jian Xiang",
+              "lastName": "Huang"
+            },
+            {
+              "id": "365",
+              "firstName": "Tae Ho",
+              "lastName": "Kim"
+            },
+            {
+              "id": "367",
+              "firstName": "Sahir",
+              "lastName": "Kochhar"
+            },
+            {
+              "id": "448",
+              "firstName": "Douglas Shenyi",
+              "lastName": "Pan"
+            },
+            {
+              "id": "514",
+              "firstName": "Eric John",
+              "lastName": "Syu"
+            },
+            {
+              "id": "539",
+              "firstName": "Vincent Keith",
+              "lastName": "Tsui"
+            },
+            {
+              "id": "541",
+              "firstName": "Derek Z",
+              "lastName": "Tu"
+            },
+            {
+              "id": "544",
+              "firstName": "Rohit",
+              "lastName": "Vallumchetla"
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "nickname": "GRAD",
+          "Users": [
+            {
+              "id": "215",
+              "firstName": "Jie-Anne Madel Carlos",
+              "lastName": "Asistio"
+            },
+            {
+              "id": "257",
+              "firstName": "Yunbo",
+              "lastName": "Chen"
+            },
+            {
+              "id": "274",
+              "firstName": "Christopher Lee",
+              "lastName": "Crutchfield"
+            },
+            {
+              "id": "354",
+              "firstName": "Raghav",
+              "lastName": "Kansal"
+            },
+            {
+              "id": "458",
+              "firstName": "Vivian Vy",
+              "lastName": "Pham"
+            },
+            {
+              "id": "473",
+              "firstName": "Gina Gabriella",
+              "lastName": "Ratto"
+            },
+            {
+              "id": "563",
+              "firstName": "Xinting",
+              "lastName": "Wang"
+            },
+            {
+              "id": "570",
+              "firstName": "Yeung Kit",
+              "lastName": "Wong"
+            },
+            {
+              "id": "650",
+              "firstName": "Jonathon Davis",
+              "lastName": "Lee"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "nickname": ";",
+          "Users": [
+            {
+              "id": "229",
+              "firstName": "Lucas Eric",
+              "lastName": "Blumhardt"
+            },
+            {
+              "id": "243",
+              "firstName": "Jonathan Bechamp",
+              "lastName": "Chang"
+            },
+            {
+              "id": "302",
+              "firstName": "Mustafa Sinan",
+              "lastName": "Gobulukoglu"
+            },
+            {
+              "id": "315",
+              "firstName": "Shreeman Gokul",
+              "lastName": "Hariharan"
+            },
+            {
+              "id": "327",
+              "firstName": "Sung Woo",
+              "lastName": "Hong"
+            },
+            {
+              "id": "350",
+              "firstName": "Jee Eun",
+              "lastName": "Jung"
+            },
+            {
+              "id": "422",
+              "firstName": "J Consepcion",
+              "lastName": "Macias"
+            },
+            {
+              "id": "505",
+              "firstName": "Jon Armond",
+              "lastName": "Stofer"
+            },
+            {
+              "id": "534",
+              "firstName": "Luke Bradford",
+              "lastName": "Tribble"
+            },
+            {
+              "id": "549",
+              "firstName": "Gustaaf",
+              "lastName": "Vogel"
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "nickname": "C",
+          "Users": [
+            {
+              "id": "261",
+              "firstName": "Yanqing",
+              "lastName": "Cheng"
+            },
+            {
+              "id": "334",
+              "firstName": "Jiani",
+              "lastName": "Huang"
+            },
+            {
+              "id": "337",
+              "firstName": "Yizhe",
+              "lastName": "Huang"
+            },
+            {
+              "id": "340",
+              "firstName": "Yunlu",
+              "lastName": "Huang"
+            },
+            {
+              "id": "407",
+              "firstName": "Hilda",
+              "lastName": "Liu"
+            },
+            {
+              "id": "410",
+              "firstName": "Weichen",
+              "lastName": "Liu"
+            },
+            {
+              "id": "576",
+              "firstName": "Siwei",
+              "lastName": "Xu"
+            },
+            {
+              "id": "592",
+              "firstName": "Hang",
+              "lastName": "Yu"
+            },
+            {
+              "id": "607",
+              "firstName": "Jiyang",
+              "lastName": "Zheng"
+            },
+            {
+              "id": "664",
+              "firstName": " Ziyang",
+              "lastName": "Li"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "nickname": "EBAE",
+          "Users": [
+            {
+              "id": "221",
+              "firstName": "Tuan",
+              "lastName": "Bao"
+            },
+            {
+              "id": "316",
+              "firstName": "Barbara Liu",
+              "lastName": "He"
+            },
+            {
+              "id": "369",
+              "firstName": "Daniel Kim",
+              "lastName": "Koo"
+            },
+            {
+              "id": "434",
+              "firstName": "Alexander Bao Long",
+              "lastName": "Nguyen"
+            },
+            {
+              "id": "463",
+              "firstName": "Victor Hon",
+              "lastName": "Phung"
+            },
+            {
+              "id": "509",
+              "firstName": "Ji Yoon",
+              "lastName": "Suh"
+            },
+            {
+              "id": "519",
+              "firstName": "Rachel Sophia",
+              "lastName": "Teitelbaum"
+            },
+            {
+              "id": "530",
+              "firstName": "Hung Quoc",
+              "lastName": "Tran"
+            },
+            {
+              "id": "666",
+              "firstName": " Maxime",
+              "lastName": "Goudenege"
+            },
+            {
+              "id": "667",
+              "firstName": "Thibault",
+              "lastName": "Malbranche"
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "nickname": "TB",
+          "Users": [
+            {
+              "id": "244",
+              "firstName": "Jimmy",
+              "lastName": "Chau"
+            },
+            {
+              "id": "269",
+              "firstName": "Wan Hin",
+              "lastName": "Choi"
+            },
+            {
+              "id": "294",
+              "firstName": "Sneha",
+              "lastName": "Gaddam"
+            },
+            {
+              "id": "387",
+              "firstName": "Sherman Henry",
+              "lastName": "Lee"
+            },
+            {
+              "id": "455",
+              "firstName": "Philip",
+              "lastName": "Pesca"
+            },
+            {
+              "id": "469",
+              "firstName": "Dhaivath",
+              "lastName": "Raghupathy"
+            },
+            {
+              "id": "479",
+              "firstName": "Marjan",
+              "lastName": "Salamati-Pour"
+            },
+            {
+              "id": "552",
+              "firstName": "Sai Anurag",
+              "lastName": "Vuppala"
+            },
+            {
+              "id": "564",
+              "firstName": "Zongxin",
+              "lastName": "Wang"
+            },
+            {
+              "id": "577",
+              "firstName": "Zepei",
+              "lastName": "Xu"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "nickname": "TMNT",
+          "Users": [
+            {
+              "id": "305",
+              "firstName": "Terrance Jeffrey",
+              "lastName": "Griffith"
+            },
+            {
+              "id": "312",
+              "firstName": "Brian Joseph",
+              "lastName": "Guthrie"
+            },
+            {
+              "id": "341",
+              "firstName": "Edward Yong-Jie",
+              "lastName": "Ji"
+            },
+            {
+              "id": "362",
+              "firstName": "Omar Abdul Ahad",
+              "lastName": "Khawaja"
+            },
+            {
+              "id": "423",
+              "firstName": "Kevin",
+              "lastName": "Mao"
+            },
+            {
+              "id": "440",
+              "firstName": "Nikolas Masoud",
+              "lastName": "Nikravesh"
+            },
+            {
+              "id": "489",
+              "firstName": "Rohan S",
+              "lastName": "Shah"
+            },
+            {
+              "id": "521",
+              "firstName": "Hillary",
+              "lastName": "Thi"
+            },
+            {
+              "id": "555",
+              "firstName": "Bernard",
+              "lastName": "Wang"
+            },
+            {
+              "id": "616",
+              "firstName": "Frank James",
+              "lastName": "Spitulski"
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "nickname": "BANANA",
+          "Users": [
+            {
+              "id": "220",
+              "firstName": "Tejas Rajendra",
+              "lastName": "Badadare"
+            },
+            {
+              "id": "260",
+              "firstName": "Zhuojun",
+              "lastName": "Chen"
+            },
+            {
+              "id": "307",
+              "firstName": "Zeyuan",
+              "lastName": "Gu"
+            },
+            {
+              "id": "333",
+              "firstName": "Haiyu",
+              "lastName": "Huang"
+            },
+            {
+              "id": "346",
+              "firstName": "Xiaoqi",
+              "lastName": "Jiang"
+            },
+            {
+              "id": "375",
+              "firstName": "Alan",
+              "lastName": "Kuo"
+            },
+            {
+              "id": "464",
+              "firstName": "Litao",
+              "lastName": "Qiao"
+            },
+            {
+              "id": "467",
+              "firstName": "Zhizhen",
+              "lastName": "Qin"
+            },
+            {
+              "id": "475",
+              "firstName": "Ajeya",
+              "lastName": "Rengarajan"
+            },
+            {
+              "id": "585",
+              "firstName": "Zhicheng",
+              "lastName": "Yang"
+            }
+          ]
+        },
+        {
+          "id": "138",
+          "nickname": "SD",
+          "Users": [
+            {
+              "id": "248",
+              "firstName": "Brendon",
+              "lastName": "Chen"
+            },
+            {
+              "id": "328",
+              "firstName": "Eyvonne Chia-Chien",
+              "lastName": "Hu"
+            },
+            {
+              "id": "330",
+              "firstName": "Ruohan",
+              "lastName": "Hu"
+            },
+            {
+              "id": "339",
+              "firstName": "Justin",
+              "lastName": "Huynh"
+            },
+            {
+              "id": "355",
+              "firstName": "Shiva",
+              "lastName": "Kannan"
+            },
+            {
+              "id": "435",
+              "firstName": "Brian L",
+              "lastName": "Nguyen"
+            },
+            {
+              "id": "522",
+              "firstName": "Lillian Lan Nguyen",
+              "lastName": "Thio"
+            },
+            {
+              "id": "528",
+              "firstName": "Minh Nhat",
+              "lastName": "Tran Quoc"
+            },
+            {
+              "id": "532",
+              "firstName": "Khiem",
+              "lastName": "Tran"
+            }
+          ]
+        },
+        {
+          "id": "140",
+          "nickname": "SEGFAULT",
+          "Users": [
+            {
+              "id": "236",
+              "firstName": "Cristian Rafael",
+              "lastName": "Camargo"
+            },
+            {
+              "id": "256",
+              "firstName": "Yi Hui",
+              "lastName": "Chen"
+            },
+            {
+              "id": "308",
+              "firstName": "Benjamin Chang",
+              "lastName": "Guo"
+            },
+            {
+              "id": "325",
+              "firstName": "Ky Vu",
+              "lastName": "Hoang"
+            },
+            {
+              "id": "443",
+              "firstName": "Stephen Michael",
+              "lastName": "OLoughlin"
+            },
+            {
+              "id": "500",
+              "firstName": "Samantha Emily",
+              "lastName": "Smith"
+            },
+            {
+              "id": "545",
+              "firstName": "Kenton Shin",
+              "lastName": "Van Peursem"
+            },
+            {
+              "id": "548",
+              "firstName": "Dennis Phuong Danh",
+              "lastName": "Vo"
+            },
+            {
+              "id": "649",
+              "firstName": "Derek De Gui",
+              "lastName": "Jiang"
+            },
+            {
+              "id": "658",
+              "firstName": "Mingjiang",
+              "lastName": "Yue"
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "nickname": "POOP",
+          "Users": [
+            {
+              "id": "213",
+              "firstName": "Mohamed Sadeq",
+              "lastName": "Al Elew"
+            },
+            {
+              "id": "224",
+              "firstName": "Rohan",
+              "lastName": "Bhargava"
+            },
+            {
+              "id": "227",
+              "firstName": "Maxwell Troy",
+              "lastName": "Bland"
+            },
+            {
+              "id": "419",
+              "firstName": "Sandra Hway-Shan",
+              "lastName": "Luo"
+            },
+            {
+              "id": "428",
+              "firstName": "Darin Shawn",
+              "lastName": "Moore"
+            },
+            {
+              "id": "487",
+              "firstName": "Joel Sylvester",
+              "lastName": "Sequeira"
+            },
+            {
+              "id": "497",
+              "firstName": "Simrandeep",
+              "lastName": "Singh"
+            },
+            {
+              "id": "503",
+              "firstName": "Joanne",
+              "lastName": "Son"
+            },
+            {
+              "id": "538",
+              "firstName": "Anthony Cn",
+              "lastName": "Tseng"
+            },
+            {
+              "id": "561",
+              "firstName": "Megan M",
+              "lastName": "Wang"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "nickname": "FEED",
+          "Users": [
+            {
+              "id": "230",
+              "firstName": "Yitzchak",
+              "lastName": "Blank"
+            },
+            {
+              "id": "271",
+              "firstName": "Austin Patrick",
+              "lastName": "Coleman"
+            },
+            {
+              "id": "290",
+              "firstName": "Johnny Angel",
+              "lastName": "Figueroa"
+            },
+            {
+              "id": "291",
+              "firstName": "Laurel Maria",
+              "lastName": "Fink"
+            },
+            {
+              "id": "306",
+              "firstName": "James Wyatt",
+              "lastName": "Guidry"
+            },
+            {
+              "id": "358",
+              "firstName": "George Frederick",
+              "lastName": "Karma"
+            },
+            {
+              "id": "477",
+              "firstName": "Zhihao",
+              "lastName": "Rong"
+            },
+            {
+              "id": "533",
+              "firstName": "William Jasper",
+              "lastName": "Travers"
+            },
+            {
+              "id": "536",
+              "firstName": "Kendrick",
+              "lastName": "Trinh"
+            },
+            {
+              "id": "540",
+              "firstName": "David Cuong",
+              "lastName": "Tu"
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "nickname": "CSE",
+          "Users": [
+            {
+              "id": "231",
+              "firstName": "Ramsey",
+              "lastName": "Bouhaddou"
+            },
+            {
+              "id": "249",
+              "firstName": "Jacky Wen",
+              "lastName": "Chen"
+            },
+            {
+              "id": "262",
+              "firstName": "Leon J",
+              "lastName": "Cheung"
+            },
+            {
+              "id": "287",
+              "firstName": "Shijie",
+              "lastName": "Fan"
+            },
+            {
+              "id": "299",
+              "firstName": "Leonar",
+              "lastName": "Gharib"
+            },
+            {
+              "id": "454",
+              "firstName": "David Fernando",
+              "lastName": "Paz Ruiz"
+            },
+            {
+              "id": "470",
+              "firstName": "Aparna",
+              "lastName": "Rangamani"
+            },
+            {
+              "id": "507",
+              "firstName": "Nicole Michelle",
+              "lastName": "Stone"
+            },
+            {
+              "id": "572",
+              "firstName": "Jiaxi",
+              "lastName": "Wu"
+            },
+            {
+              "id": "598",
+              "firstName": "Kevin",
+              "lastName": "Zavier"
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "nickname": "SDS",
+          "Users": [
+            {
+              "id": "225",
+              "firstName": "Tal Moti",
+              "lastName": "Ben-Ari"
+            },
+            {
+              "id": "295",
+              "firstName": "Oliver Arnab",
+              "lastName": "Ganguli"
+            },
+            {
+              "id": "361",
+              "firstName": "Aidan Glenpatrick",
+              "lastName": "Keogh"
+            },
+            {
+              "id": "373",
+              "firstName": "Anand R",
+              "lastName": "Kumar"
+            },
+            {
+              "id": "381",
+              "firstName": "Steven",
+              "lastName": "Lay"
+            },
+            {
+              "id": "446",
+              "firstName": "Matthew John",
+              "lastName": "Olsen"
+            },
+            {
+              "id": "535",
+              "firstName": "Abram Hui",
+              "lastName": "Trinh"
+            },
+            {
+              "id": "579",
+              "firstName": "Orr Moshe",
+              "lastName": "Yakobi"
+            },
+            {
+              "id": "615",
+              "firstName": "Amanda Marie",
+              "lastName": "Smith"
+            }
+          ]
+        },
+        {
+          "id": "112",
+          "nickname": "IRS",
+          "Users": [
+            {
+              "id": "212",
+              "firstName": "Krikor Gregory",
+              "lastName": "Ailanjian"
+            },
+            {
+              "id": "234",
+              "firstName": "Shane Francis",
+              "lastName": "Breining"
+            },
+            {
+              "id": "238",
+              "firstName": "Bryle De La Pena",
+              "lastName": "Castro"
+            },
+            {
+              "id": "266",
+              "firstName": "Jonathan Kinwah",
+              "lastName": "Choi"
+            },
+            {
+              "id": "370",
+              "firstName": "Jeffrey Thomas",
+              "lastName": "Koretke"
+            },
+            {
+              "id": "385",
+              "firstName": "Junyeon",
+              "lastName": "Lee"
+            },
+            {
+              "id": "399",
+              "firstName": "Edward",
+              "lastName": "Liang"
+            },
+            {
+              "id": "408",
+              "firstName": "Paulos Luke",
+              "lastName": "Liu"
+            },
+            {
+              "id": "433",
+              "firstName": "Garrick E",
+              "lastName": "Ng"
+            },
+            {
+              "id": "437",
+              "firstName": "Brian Vi",
+              "lastName": "Nguyen"
+            },
+            {
+              "id": "546",
+              "firstName": "Alvin Jose",
+              "lastName": "Vanegas"
+            }
+          ]
+        },
+        {
+          "id": "136",
+          "nickname": "MEMES",
+          "Users": [
+            {
+              "id": "392",
+              "firstName": "Andrew Tao",
+              "lastName": "Li"
+            },
+            {
+              "id": "400",
+              "firstName": "Kevin TaeYoung",
+              "lastName": "Lim"
+            },
+            {
+              "id": "413",
+              "firstName": "Zi Ying",
+              "lastName": "Liu"
+            },
+            {
+              "id": "417",
+              "firstName": "Andy",
+              "lastName": "Lum"
+            },
+            {
+              "id": "457",
+              "firstName": "Bao Hoang",
+              "lastName": "Pham"
+            },
+            {
+              "id": "513",
+              "firstName": "David Alexander",
+              "lastName": "Tallman"
+            },
+            {
+              "id": "609",
+              "firstName": "Shengxiang",
+              "lastName": "Zhou"
+            },
+            {
+              "id": "610",
+              "firstName": "Xuanru",
+              "lastName": "Zhu"
+            },
+            {
+              "id": "648",
+              "firstName": "Diyang",
+              "lastName": "He"
+            },
+            {
+              "id": "656",
+              "firstName": "Chenlin",
+              "lastName": "Ye"
+            }
+          ]
+        },
+        {
+          "id": "134",
+          "nickname": "TFTI",
+          "Users": [
+            {
+              "id": "219",
+              "firstName": "Timothy Phuong Tin",
+              "lastName": "Banh"
+            },
+            {
+              "id": "241",
+              "firstName": "Eugene W",
+              "lastName": "Chang"
+            },
+            {
+              "id": "275",
+              "firstName": "Ming",
+              "lastName": "Dai"
+            },
+            {
+              "id": "406",
+              "firstName": "Dennis",
+              "lastName": "Liu"
+            },
+            {
+              "id": "414",
+              "firstName": "Jonathan Delano",
+              "lastName": "Lloyd"
+            },
+            {
+              "id": "415",
+              "firstName": "Albert J",
+              "lastName": "Lo"
+            },
+            {
+              "id": "421",
+              "firstName": "Benson Wai Kit",
+              "lastName": "Ly"
+            },
+            {
+              "id": "436",
+              "firstName": "Brian Thinh-Minh",
+              "lastName": "Nguyen"
+            },
+            {
+              "id": "441",
+              "firstName": "Justin",
+              "lastName": "No"
+            },
+            {
+              "id": "550",
+              "firstName": "Brian Khanh",
+              "lastName": "Vu"
+            },
+            {
+              "id": "569",
+              "firstName": "Brian Matthew",
+              "lastName": "Wong"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
