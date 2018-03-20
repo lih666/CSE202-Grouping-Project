@@ -11,7 +11,4 @@ git clone https://github.com/lih666/CSE202-Grouping-Project
 
 
 ## Authors
-Lihao He
-Zhiyue Yang
-Linqi Pan
-Shiyi Wang
+Lihao He, Zhiyue Yang, Linqi Pan, Shiyi Wang
