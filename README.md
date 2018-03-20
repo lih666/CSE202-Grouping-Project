@@ -9,10 +9,6 @@ git clone https://github.com/lih666/CSE202-Grouping-Project
 * [Node.js](https://nodejs.org/en/) - Download Node
 * `npm install graph-data-structure` -library
 
-## Authors
-Lihao He, Zhiyue Yang, Linqi Pan, Shiyi Wang
-
-
 ## File Description
 
 * `course4Group.json` Reference Data
@@ -27,3 +23,6 @@ Lihao He, Zhiyue Yang, Linqi Pan, Shiyi Wang
 node filter.js
 node preference.js
 ```
+
+## Authors
+Lihao He, Zhiyue Yang, Linqi Pan, Shiyi Wang
