@@ -223,7 +223,6 @@ module.exports = function Util(){
             currentAdj.forEach(function (t3) {
 
                 if(possibleGroup.includes(t3)){
-                    //  console.log('matcht hit for '+t2+' is '+ matchHit);
                     matchHit++;
                 }
             })

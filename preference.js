@@ -26,14 +26,17 @@ var colored_list = [];
 var color_id = 0;
 var curr_color_size = 0;
 
-
 var nodeList = rev_graph.nodes();
 
 var compute = 0;
 
+//For computing the number of floating students
 var pure_floating = 0;
 var floating = 0;
 
+
+//Iterate through the list and check number of floating, pure floating students.
+//In the heuristic version, we define a floating student as no preference at all.
 nodeList.forEach(function (t) {
     if(rev_graph.outdegree(t) == 379){
         compute++;
@@ -51,7 +54,9 @@ nodeList.forEach(function (t) {
     }
 });
 
-//console.log(compute);
+
+/*------------ End of Pre-data computing -------------*/
+
 
 //Add the student that exist inside a stable group to this array.
 var stable = [];
@@ -67,7 +72,7 @@ console.log(nodeList.length);
 nodeList
 
 //Try different size of group util it is less than 1
-while(targetGroup > 1) {
+while(targetGroup > 1) {                  //O(n)
 
     //On the rest part of the student graph
     nodeList.forEach(function (t) {
@@ -81,21 +86,22 @@ while(targetGroup > 1) {
         //When the targeting student has out degree 
         if (initial_graph.outdegree(t) >= targetGroup-1) {
 
-            var res = util.stableGroupF(initial_graph, t, size, stable, targetGroup);
+            //Use the strict version and try to assemble a group
+            var res = util.stableGroupF(initial_graph, t, size, stable, targetGroup);       //O(1)
             if (res) {
                 console.log('Decrement' + t);
                 size -= targetGroup;
             }
+
+            //Try to use amibigious grouping when the strict grouping failed
             else{
-                res = util.stableGroupF_ambigious(initial_graph, t, size, stable, targetGroup);
-               if (res) {
+                res = util.stableGroupF_ambigious(initial_graph, t, size, stable, targetGroup);     //O(1)
+                if (res) {
                    console.log('Decrement' + t);
                    size -= targetGroup;
                 }
             }
-
         }
-
     });
 
     targetGroup--;
